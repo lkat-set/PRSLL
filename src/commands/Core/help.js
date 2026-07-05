@@ -38,7 +38,7 @@ const CATEGORY_ICONS = {
     "Reaction Roles": "🎭",
     Community: "👥",
     Birthday: "🎂",
-    "Join To Create": "🔌",
+    Join To Create: "🔌",
     Verification: "✅",
 };
 
@@ -108,7 +108,7 @@ export async function createInitialHelpMenu(client) {
     });
 
     embed.setFooter({ 
-        text: "Made with ❤️" 
+        text: "PRLSS Community" 
     });
     embed.setTimestamp();
 
