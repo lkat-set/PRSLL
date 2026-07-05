@@ -6,9 +6,8 @@ import {
 } from "discord.js";
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 import { createEmbed } from "../../utils/embeds.js";
-import {
-    createSelectMenu,
-} from "../../utils/components.js";
+import { createSelectMenu} ,
+    from "../../utils/components.js";
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
